@@ -1,0 +1,69 @@
+﻿hoja,Departamento de Estadísticas Socioeconómicas y Ambientales,col,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,col_10
+cuadro 27,Cuadro 27,,,,,,,,,,
+cuadro 27,"Cantidad de vehículos involucrados en accidentes de tránsito ocurridos en la República de Guatemala, por tipo de accidente, según tipo de vehículo y sexo.",,,,,,,,,,
+cuadro 27,Año 2024.,,,,,,,,,,
+cuadro 27,Tipo de vehículo y sexo de la persona,Total,Tipo de accidente,,,,,,,,
+cuadro 27,,,Colisión,Atropello,Derrape,Choque,Vuelco,Embarrancó,Encunetó,Caída,Ignorado
+cuadro 27,Total,13045,9087,2073,1219,437,144,78,3,1,3
+cuadro 27,Hombre,11751,8159,1837,1127,408,138,75,3,1,3
+cuadro 27,Mujer,983,816,46,89,24,5,3,0,0,0
+cuadro 27,Ignorado,311,112,190,3,5,1,0,0,0,0
+cuadro 27,Motocicleta,6462,4397,697,1172,175,4,17,0,0,0
+cuadro 27,Hombre,5929,3999,656,1085,169,4,16,0,0,0
+cuadro 27,Mujer,484,383,9,85,6,0,1,0,0,0
+cuadro 27,Ignorado,49,15,32,2,0,0,0,0,0,0
+cuadro 27,Automóvil,2443,1657,640,12,93,27,13,1,0,0
+cuadro 27,Hombre,2036,1374,533,11,81,25,11,1,0,0
+cuadro 27,Mujer,285,248,22,1,10,2,2,0,0,0
+cuadro 27,Ignorado,122,35,85,0,2,0,0,0,0,0
+cuadro 27,Pick up,1108,844,164,6,44,32,16,2,0,0
+cuadro 27,Hombre,1037,801,142,4,42,30,16,2,0,0
+cuadro 27,Mujer,31,25,1,2,1,2,0,0,0,0
+cuadro 27,Ignorado,40,18,21,0,1,0,0,0,0,0
+cuadro 27,Camioneta,978,799,114,3,34,17,11,0,0,0
+cuadro 27,Hombre,808,649,102,2,28,16,11,0,0,0
+cuadro 27,Mujer,160,143,9,1,6,1,0,0,0,0
+cuadro 27,Ignorado,10,7,3,0,0,0,0,0,0,0
+cuadro 27,Camión,664,495,99,4,38,24,4,0,0,0
+cuadro 27,Hombre,640,477,95,3,37,24,4,0,0,0
+cuadro 27,Mujer,4,3,1,0,0,0,0,0,0,0
+cuadro 27,Ignorado,20,15,3,1,1,0,0,0,0,0
+cuadro 27,Cabezal,469,390,49,2,16,10,2,0,0,0
+cuadro 27,Hombre,439,375,35,2,15,10,2,0,0,0
+cuadro 27,Mujer,4,4,0,0,0,0,0,0,0,0
+cuadro 27,Ignorado,26,11,14,0,1,0,0,0,0,0
+cuadro 27,Bus urbano,281,186,58,1,9,17,9,0,1,0
+cuadro 27,Hombre,271,178,56,1,9,17,9,0,1,0
+cuadro 27,Mujer,2,1,1,0,0,0,0,0,0,0
+cuadro 27,Ignorado,8,7,1,0,0,0,0,0,0,0
+cuadro 27,Microbús,157,121,19,2,9,4,2,0,0,0
+cuadro 27,Hombre,148,114,18,2,9,3,2,0,0,0
+cuadro 27,Mujer,6,6,0,0,0,0,0,0,0,0
+cuadro 27,Ignorado,3,1,1,0,0,1,0,0,0,0
+cuadro 27,Moto taxi,116,76,18,6,9,7,0,0,0,0
+cuadro 27,Hombre,113,73,18,6,9,7,0,0,0,0
+cuadro 27,Mujer,2,2,0,0,0,0,0,0,0,0
+cuadro 27,Ignorado,1,1,0,0,0,0,0,0,0,0
+cuadro 27,Panel,49,35,6,0,6,0,2,0,0,0
+cuadro 27,Hombre,49,35,6,0,6,0,2,0,0,0
+cuadro 27,Cuatrimoto,42,28,7,3,3,1,0,0,0,0
+cuadro 27,Hombre,40,28,6,3,2,1,0,0,0,0
+cuadro 27,Mujer,2,0,1,0,1,0,0,0,0,0
+cuadro 27,Tractor ,9,7,2,0,0,0,0,0,0,0
+cuadro 27,Hombre ,9,7,2,0,0,0,0,0,0,0
+cuadro 27,Bus extraurbano,8,5,2,1,0,0,0,0,0,0
+cuadro 27,Hombre,7,5,1,1,0,0,0,0,0,0
+cuadro 27,Ignorado,1,0,1,0,0,0,0,0,0,0
+cuadro 27,Jeep,7,5,2,0,0,0,0,0,0,0
+cuadro 27,Hombre,6,4,2,0,0,0,0,0,0,0
+cuadro 27,Mujer,1,1,0,0,0,0,0,0,0,0
+cuadro 27,Bicicleta,4,1,3,0,0,0,0,0,0,0
+cuadro 27,Hombre ,4,1,3,0,0,0,0,0,0,0
+cuadro 27,Montacargas,1,0,1,0,0,0,0,0,0,0
+cuadro 27,Hombre,1,0,1,0,0,0,0,0,0,0
+cuadro 27,Taxi,1,0,1,0,0,0,0,0,0,0
+cuadro 27,Hombre ,1,0,1,0,0,0,0,0,0,0
+cuadro 27,Ignorado,246,41,191,7,1,1,2,-,-,3
+cuadro 27,Hombre,213,39,160,7,1,1,2,-,-,3
+cuadro 27,Mujer ,2,-,2,-,-,-,-,-,-,-
+cuadro 27,Ignorado,31,2,29,-,-,-,-,-,-,-
